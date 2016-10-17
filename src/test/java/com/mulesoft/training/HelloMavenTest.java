@@ -4,7 +4,10 @@ import org.mule.api.MuleEvent;
 
 import static org.junit.Assert.*;
 
-i
+import org.junit.Test;
+
+import org.mule.tck.junit4.FunctionalTestCase;
+
 public class HelloMavenTest extends FunctionalTestCase {
 
     @Test
